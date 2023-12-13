@@ -1,0 +1,6 @@
+1.First turn of a player is decided through toss 
+2.Each Player has their own cards consisting of unique random values 
+3.Each player gets a chance to draw a number from their card in their turn
+4.If a player draws a number from a card , it gets assigned the value of 0 on both cards
+5.If a row/column/diagnol is totally filled/completed with zeroes , player who completed it gets a point
+6.If a player acheives score of 5 or more , he wins 
